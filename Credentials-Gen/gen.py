@@ -41,5 +41,7 @@ if __name__ == "__main__":
     print("made with ❤️ by @Benni_main\n")
     print("====================================\n")
     print("We are Working on a New Gen With Email Generator and more features, Stay Tuned!\n")
-    print("=== Offline Credential Generator ===")
+    print("\n====================================")
+    print("===  OFFLINE CREDENTIAL GENERATOR ===")
+    print("====================================\n")
 
